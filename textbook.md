@@ -50,3 +50,14 @@ $ yarn add react-helmet
 ~~~
 - apollo : graphQL 클라이언트 관련된 역할 제공
 - react-apollo : 리액트에 연결하는 방법을 제공
+
+
+
+# 6 Details Route with params
+- styled-components, styled-reset, prop-types 설치
+~~~
+$ yarn add styled-components
+$ yarn add styled-reset
+$ yarn add prop-types
+~~~
+- 쿼리안에 변수(variable) 넣는 방법에 대한 학습
