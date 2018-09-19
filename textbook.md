@@ -37,3 +37,5 @@ $ yarn add apollo-boost react-apollo graphql-tag graphql --save
 # 2 Setting up an Apollo Client
 - apollo dev tools : chrome 확장 툴
 
+# 3 Setting up React Router
+- App.js -> Router가 된다.
