@@ -37,5 +37,16 @@ $ yarn add apollo-boost react-apollo graphql-tag graphql --save
 # 2 Setting up an Apollo Client
 - apollo dev tools : chrome 확장 툴
 
+
 # 3 Setting up React Router
 - App.js -> Router가 된다.
+
+
+# 4 & 5 Getting data from the GraphQL API
+- graphql-tag : 프론트엔드에 graphQL을 작성하는 방법
+- react-helmet 설치
+~~~
+$ yarn add react-helmet
+~~~
+- apollo : graphQL 클라이언트 관련된 역할 제공
+- react-apollo : 리액트에 연결하는 방법을 제공
