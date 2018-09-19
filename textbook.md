@@ -65,3 +65,8 @@ $ yarn add prop-types
 
 # 7 Creating a Query with variables
 - 쿼리안에 변수(variable) 넣는 방법에 대한 학습
+
+
+# 8 Conclusions
+- component, read, mount, fetch, set state, loading true, loading false
+- cache, fetch, state, loading, error
