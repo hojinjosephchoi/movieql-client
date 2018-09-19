@@ -32,3 +32,8 @@ $ yarn add apollo-boost react-apollo graphql-tag graphql --save
 ~~~
 
 - Apollo Boost : GraphQL 클라이언트를 가지기 위한 셋업을 대신해준다.
+
+
+# 2 Setting up an Apollo Client
+- apollo dev tools : chrome 확장 툴
+
